@@ -8,13 +8,13 @@ import java.sql.*;
 public final class TickerCopy {
 
 	public static void main(String[] args) {
-		String stocks = null, opts = null, passOn = null;
+		String stocks = null, opts = "nsvxb2b3aboghjkm3m4", passOn = null;
 		if (args.length > 0) {
 			stocks = args[0];
-			opts = args[1];
+			//opts = args[1];
 		}
 		else { 
-			System.out.println("You need to enter at least one argument");
+			System.out.println("You need to enter at least one symbol, the form should be: [symbol]+[next symbol]+...+[final symbol]");
 		}
 		try {
 			final String enEh = "N/A";
