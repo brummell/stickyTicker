@@ -1,5 +1,12 @@
-This file is the basis code for a RESTful stock grabber. 
+*************************************************************************************
+27.03.2013
 
-Many, many changes are coming.
+-Basic, partially functial GUI added
+-PHP Database handler added
 
-Advice, suggestions, question -> doug.brummell@gmail.com
+*************************************************************************************
+Initial
+
+-This file is the basis code for a RESTful stock grabber. 
+-Many, many changes are coming.
+-Advice, suggestions, question -> doug.brummell@gmail.com
