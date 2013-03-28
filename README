@@ -1,12 +1,21 @@
 *************************************************************************************
-27.03.2013
 
--Basic, partially functial GUI added
--PHP Database handler added
+28.03.2013
+--Finished handler responses
+--Changed response to output JSON object
+--Cleaned code very slightly
 
 *************************************************************************************
-Initial
 
--This file is the basis code for a RESTful stock grabber. 
--Many, many changes are coming.
--Advice, suggestions, question -> doug.brummell@gmail.com
+27.03.2013
+--Basic, partially functial GUI added
+--PHP Database handler added
+
+*************************************************************************************
+
+Initial
+--This file is the basis code for a RESTful stock grabber. 
+--Many, many changes are coming.
+--Advice, suggestions, question -> doug.brummell@gmail.com
+
+*************************************************************************************
